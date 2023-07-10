@@ -1,4 +1,4 @@
-function newNonPlayableCharacter(x, y) {
+ function newNonPlayableCharacter(x, y) {
     let element = newImage('assets/red-character/static.gif')
     element.style.zIndex = 1;
 
